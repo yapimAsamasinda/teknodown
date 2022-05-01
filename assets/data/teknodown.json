@@ -1,0 +1,65 @@
+[
+    {
+        "id": "1",
+        "katagori": "Büyüme ve Gelişme",
+        "baslik": "Down Sendromlu Bireylerde Gelişim",
+        "genelAciklama": "Down Sendromlu çocukların büyüme ve gelişimleri, diğer çocuklarda olduğu gibi genetik yapı, çevre koşullan ve çocuğun duyu-hareket gelişimi, kişilik oluşumu ve öğrenme alanlarındaki yetenekleriyle değerlendirilir.",
+        "genelResim": "https://madicanacdnstorage.blob.core.windows.net/main/Assets/photo/r/down-sendromu-83437_b.jpg",
+        "altBasliklar": {
+            "altBaslik1": "Hareket Gelişimi",
+            "altBaslik2": "Zihinsel Gelişimi",
+            "altBaslik3": "Sosyal Gelişim"
+        },
+        "aciklamalar": {
+            "aciklama1": "Down Sendromlu çocuklarla normal çocuklar arasındaki en belirgin gelişimsel fark; gelişim hızı ve düzeyiyle ilgilidir; yani aynı gelişim basamakları farklı hızla tırmanılır. Örneğin hareket gelişiminin temel göstergelerinden olan emekleme, ayakta durma, sıralama ve yürüme gibi aşamalara, Down Sendromlu çocuklarda daha uzun sürede ulaşılır. Başka bir organik sorunu olmayan Down Sendromlu çocuklar, 2 ya da 3 yaşında yürüyebilirler.",
+            "aciklama2": "Down Sendromlu çocukların zihinsel gelişimi, genelde 2-7 yaşındakilerin gelişim düzeyindedir. Ancak, erken başlanan sürekli eğitim, bu yaş sınırını daha üst basamaklara taşıyabilmektedir. Bu çocukların dikkat süreleri kısa, bellekleri zayıftır. Soyut kavranılan öğrenmede çok zorluk çekebilirler. Yürüdükten bir-iki yıl kadar sonra konuşurlar. İlk sözcükleri 3 yaş civarında kullanmaya, cümle kurmaya 6 yaş civarında başlarlar. Alıcı dil gelişimleri (kendisine söylenenleri anlama), ifade edici dil gelişim düzeyinden (bağımsız konuşabilme) daha yüksektir. Sosyal gelişimleri, zihinsel gelişimlerinden genellikle iki-üç yıl öndedir. Bu nedenle çoğu kez olduklarından zeki görünebilirler. Çevreleri ile uyumlu ilişkiler kurabilirler. Problemlerine özgü karakteristik özellikler gösterirler.",
+            "aciklama3": "Sevimli, neşeli, dünyayla barışık, karşısındakilerin yaşı-konumu ne olursa olsun hemen yakınlık kurabilen, ama buna karşın inatçı, istemediği buseyi yapmayan, kendi yapabileceği bir işi başkasına yaptırmaya eğilimlidirler. Bunun için anne ve babanın çocuğu aşırı bir biçimde koruması, adeta onun eli-ayağı olması gelişimini yavaşlatacaktır. Gerektiğinde fırsatlar vererek, eğitimciyle paralel bir şekilde uygulamaları evde tekrar etmek yararlı olacaktır. Anne ve babanın tutarlı olması, alınan kararların uygulanması çocuğun kişilik gelişiminde çok önemli bir yer tutmaktadır.Beceri Gelişimi Down Sendromlu çocuklar sağlık sorunları olmazsa, eğitimde çok alıcı olabilen çocuklardır. Ödül kullanma eğitimlerinde çok etkili olabilir. Büyük kas becerileri, öz bakım becerileri, algı-dikkat-taklit-kavram becerileri ve sosyal becerileri sistemli ve uyumlu bir çalışmayla belirli bir seviyeye getirilebilir. Ama dil gelişimleri geç ve zor ilerleyecektir. Bu konuda aile üyeleri sabırlı, hoşgörülü olmak, çok ısrarcı olmamalıdır."
+        },
+        "resimler": {
+            "resimAltBaslik1": "https://genclikspor.ibb.istanbul/wp-content/uploads/2021/03/yesilvadide-down-sendromlu-cocuklara-ozel-spor-seanslari-13-1030x686.jpg",
+            "resimAltBaslik2": "https://i01.sozcucdn.com/wp-content/uploads/2017/03/down-sendrom-3.jpg",
+            "resimAltBaslik3": "https://bakiciburada.com/blog/wp-content/uploads/2020/07/down-sendromlu-bebekler-kac-yasina-kadar-yasar.jpg"
+        }
+    },
+    {
+        "id": "2",
+        "katagori": "Eğitim",
+        "baslik": "Down Sendromlu Çocuğa Akedemik Ve Sosyal Beceri Kazandırma",
+        "genelAciklama": "Özel eğitimde en önemli etkenin süreklilik olduğu göz önünde bulundurulduğunda, down sendromuna sahip çocuğumuzun eğitiminin hızlı ve kalıcı olması için ailenin de eğitime aktif katılımını önceliyoruz. Ailelerin özel eğitimle ilgili bilgi edinmesine yardım etmek ve eğitime aktif katılımını sağlamak adına akademik ve sosyal beceri eğitimini sizler için down sendromu özelinde derledik.",
+        "genelResim": "https://i0.wp.com/www.ailemizdergisi.com/wp-content/uploads/2022/03/Down-1-752x440-happy-girl-with-down-syndrome-posing-while-drawing.jpg",
+        "altBasliklar": {
+            "altBaslik1": "Eğitim Süreci Nasıl İşler?",
+            "altBaslik2": "1- Özel Eğitim",
+            "altBaslik3": "2-Dil-Konuşma Becerileri",
+            "altBaslik4": "3-Fizik Tedavi"
+        },
+        "aciklamalar": {
+            "aciklama1": "Down Sendromlu çocuklar iyi bir eğitimle normal birey şeklinde hayatlarını sürdürebilirler. İmkân tanındığında meslek edinebilirler. Kendi yaşamlarını idame ettirebilecek seviyeye ulaşabilirler. Özel eğitim, dil-konuşma becerileri ve fizik tedaviye ihtiyaç duyulur. Bunlar için planlı ve programlı bir şekilde profesyonel yardım almak gerekir.",
+            "aciklama2": "Down Sendromlu çocuklar kendi aralarında farklılıklar gösterse de genelde daha yavaş öğrenirler, problem çözmede ve karar vermede diğer çocuklardan daha çok zorlanırlar. Dikkat süreleri normalden kısa olabilir. Ödül kullanma, eğitimlerinde çok etkili olabilir. Ailenin eğitime aktif katılması çocuğun gelişmesinde en önemli unsurlardan biridir. Çocuğun eğitim uygulamalarının evde desteklenmesi eğitimin ilerlemesi ve kalıcılığı açısından anahtar noktadır. Aileye düşen sabırlı ve hoşgörülü olmaktır.",
+            "aciklama3": "Down sendromlu çocukların normal çocuklara göre kasları daha gevşektir. Bu durum konuşmanın gecikmesine sebep olur ancak bu çocuklarımız kendilerini mimik ve jestlerle çok iyi ifade edebilir. Çocuğun bu ifade ediş şeklini göz ardı etmek çocuğun iletişimle ilgili şevkini kırabileceğinden yanlış bir davranış olacaktır. İlk sözcükler genelde 2-3 yaş arasında görülse de kişisel farklılıkların olması söz konusudur. Her down sendromlu çocuğun mutlaka konuşma ve dil terapisi alması gerekir. Çocuk doğduğunda başlayan bu süreç gerekli görüldüğü sürece devam eder. Özel eğitimde ise alıcı dil, ifade edici dil ve alternatif iletişim (işaret ve nesne kullanarak iletişim) başlıkları altında çocuğun düzeyine uygun beceriler kazandırılması hedeflenir. Görsellerle desteklendiğinde işitsel öğrenmeye kıyasla daha kalıcı ve etkili olur. ",
+            "aciklama4": "Fizik tedavide genel amaç kas tonusunu arttırma, kaba ve ince motor becerileri kazandırmadır. Bir uzman tarafından doğru egzersizlerle yapılan müdahaleler genelde olumlu sonuçlar verir. Egzersizler fizyoterapist bakımında yapılmalı ve günlük programlarla evde aile tarafından uygulanmalıdır. Düzenli kontrollerle duruma göre tedavi desteklenir. Fizik tedavi süresince kas gücü ve motor becerilerinin yanı sıra, algılama becerisi de programa dahil edilerek desteklenebilir."
+        },
+        "resimler": {
+            "resimAltBaslik1": "https://i2.gazetevatan.com/i/gazetevatan/75/0x410/6239dc06ed13441560e26bc0.jpg",
+            "resimAltBaslik2": "http://www.alemdagozelegitim.com/Resimler/12711383344.jpg",
+            "resimAltBaslik3": "http://dilmerterapi.com/images/calisma-alanlarimiz/down_sendromunda_konusma_terapisi.jpg",
+            "resimAltBaslik4": "http://dilmerterapi.com/images/calisma-alanlarimiz/down_sendromunda_konusma_terapisi.jpg"
+        }
+    },
+    {
+        "id": "3",
+        "katagori": "Eğlence",
+        "baslik": "İşte Oynayabileceğiniz Oyunlar",
+        "genelAciklama": "Örüntü oyunlarını oynayan  çocukların okumaya daha hızlı ve rahat geçtiği görülmüştür. Aynı zamanda neden-sonuç ilişkisi kurma becerisi ve analitik düşünme becerilerini örüntü oyunları oynayarak artırabilirsiniz",
+        "genelResim": "https://i3.posta.com.tr/i/posta/75//0x410/6178e9d445d2a0aac46ad706.jpg",
+        "altBasliklar": {
+            "altBaslik1": "Tırtıl oyunu nasıl oynanır?"
+        },
+        "aciklamalar": {
+            "aciklama1": "İlk önce üçlü bir örüntü belirleyerek bu etkinliğe başlayabilirsiniz. Mesela kırmızı, siyah, beyaz-kırmızı, siyah, beyaz şeklinde ipe dizerek tırtılınızı oluşturabilirsiniz. Çocuğunuza bir sonrakinde hangisini koyması gerektiğini sorun. Bunu kavrayıp oynadıktan sonra model örüntünüzü değiştirebilirsiniz. Hatta evde göz, anten gibi çıkartmalarınız varsa ilk düğmeye takabilirsiniz, böylece örüntünüz tırtıla daha çok benzemiş olacak."
+        },
+        "resimler": {
+            "resimAltBaslik1": "https://i.pinimg.com/474x/d3/37/f3/d337f319405b768b25242063063d489b.jpg"
+        }
+    }
+]
