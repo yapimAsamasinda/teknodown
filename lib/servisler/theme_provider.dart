@@ -25,15 +25,16 @@ class Tema {
       color: Color.fromRGBO(30, 30, 30, 1),
     ),
     //primaryColor: Color.fromRGBO(30, 30, 30, 1),
-    cardColor:const Color.fromRGBO(30, 30, 30, 1),
-
-    scaffoldBackgroundColor:const Color.fromRGBO(18, 18, 18, 1),
+    cardColor: const Color.fromRGBO(30, 30, 30, 1),
+    colorScheme: const ColorScheme.dark(),
+    scaffoldBackgroundColor: const Color.fromRGBO(18, 18, 18, 1),
   );
   static final aydinlikTema = ThemeData(
-    appBarTheme: const AppBarTheme(color:  Color(0xff3700b3)),
+    colorScheme: const ColorScheme.light(),
+    appBarTheme: const AppBarTheme(color: Color(0xff3700b3)),
     scaffoldBackgroundColor: Colors.white,
-    iconTheme:const IconThemeData(color: Colors.amber),
-    primaryIconTheme:const IconThemeData(color: Colors.purple),
+    iconTheme: const IconThemeData(color: Colors.black),
+    primaryIconTheme: const IconThemeData(color: Colors.purple),
   );
 }
 //const Color(0xff3700b3)

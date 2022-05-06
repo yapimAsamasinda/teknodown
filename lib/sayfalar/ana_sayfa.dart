@@ -1,7 +1,7 @@
 import 'dart:convert';
-
 import 'package:flutter/material.dart';
 import 'package:teknodown/model/icerik_model.dart';
+import 'package:teknodown/sayfalar/icerik_sayfasi.dart';
 import 'package:teknodown/widgets/duyuru_dugmesi.dart';
 import 'package:teknodown/widgets/icerik_baslik.dart';
 import 'package:teknodown/widgets/tema_degistir_widget.dart';
@@ -14,7 +14,6 @@ class AnaSayfa extends StatefulWidget {
 }
 
 class _AnaSayfaState extends State<AnaSayfa> {
-  
   Future<List<IcerikModel>> icerikJsonOku() async {
     try {
       String okunanString = await DefaultAssetBundle.of(context)
@@ -40,12 +39,11 @@ class _AnaSayfaState extends State<AnaSayfa> {
   Widget build(BuildContext context) {
     return Scaffold(
       appBar: AppBar(
-        title:const Text('Tekno Down'),
-        actions:const [TemaDegistirWidget(), DuyuruDugmesi()],
+        title: const Text('Tekno Down'),
+        actions: const [TemaDegistirWidget(), DuyuruDugmesi()],
       ),
       body: FutureBuilder<List<IcerikModel>>(
           future: icerikListesiniDoldur,
-  
           builder: (context, snapshot) {
             if (snapshot.hasData) {
               List<IcerikModel> _icerikler = snapshot.data!;
@@ -54,8 +52,12 @@ class _AnaSayfaState extends State<AnaSayfa> {
                   itemBuilder: (context, index) {
                     IcerikModel icerik = _icerikler[index];
 
-                    return IcerikBaslik(
-                      icerik: icerik,
+                    return GestureDetector(
+                      onTap: () => Navigator.of(context).push(MaterialPageRoute(
+                          builder: (context) => IcerikSayfasi(icerik: icerik))),
+                      child: IcerikBaslik(
+                        icerik: icerik,
+                      ),
                     );
                   });
             } else if (snapshot.hasError) {
