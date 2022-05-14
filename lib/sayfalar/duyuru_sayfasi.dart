@@ -12,6 +12,7 @@ class _DuyuruSayfasiState extends State<DuyuruSayfasi> {
   Widget build(BuildContext context) {
     return const Scaffold(
       
+      
     );
   }
 }
